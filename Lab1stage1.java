@@ -16,8 +16,8 @@ public class Lab1stage1 {
      */
     public static void main(String[] args) {
         
-        Animal kurre = new Animal("Kurre");
-        Animal vilma = new Animal("Vilma");
+        Animal kurre = new Cat("Kurre");
+        Animal vilma = new Dog("Vilma");
         
         kurre.age = 6;
         vilma.age = 3;
